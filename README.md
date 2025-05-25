@@ -192,7 +192,7 @@ Prompt:
 
 Analysis (Context-enriched):
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/336065f5a55e16d0feaab5cd06ccaef09f146bb8/images/Screenshot%202025-05-25%20230810.png)
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Well-structured response with a detailed explanation linking flexibility and precision to recovery time.
