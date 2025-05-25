@@ -167,7 +167,7 @@ Prompt:
 
 Analysis (Instruction-following):
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/27653fe479e6061ef31bb979332b91dd39dfe18e/images/Screenshot%202025-05-25%20230630.png)
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Follows instructions well, concise and accurate list.
