@@ -12,6 +12,7 @@ To systematically evaluate and compare the performance, user experience, and res
 
 # Use Case: Text Summarization
 “Soft robotics is an emerging field in mechanical engineering that focuses on creating robots constructed from highly flexible and compliant materials, such as silicones, polymers, and smart textiles. Unlike traditional rigid robots, soft robots are designed to safely interact with humans and adapt to unpredictable environments. They often mimic biological organisms, offering advantages like enhanced dexterity, safe physical interaction, and the ability to squeeze through confined spaces. Recent advancements include artificial muscles powered by pneumatics, hydraulics, or electroactive polymers, enabling more lifelike and versatile movement. Soft robotic grippers are now widely used in delicate object handling, such as food processing and medical surgery. Researchers are also exploring untethered soft robots that can crawl, swim, or even heal themselves after damage. The combination of material innovation, bioinspired design, and intelligent control systems positions soft robotics as a transformative force across healthcare, wearable technology, aerospace, and beyond.”
+
 # 1.	Prompt Type: Zero-Shot Prompt
 Question: "Summarize the paragraph about soft robotics."
 🔹 ChatGPT: "Soft robotics focuses on building flexible, adaptable robots from materials like silicones and smart textiles. These robots mimic biological organisms, enhancing safety, dexterity, and adaptability. Innovations include artificial muscles, soft grippers for delicate tasks, and self-healing robots. Applications span healthcare, aerospace, and wearable technology."
@@ -29,8 +30,7 @@ ChatGPT	A	A	A	Very concise, correctly picked innovations from the paragraph with
 Claude	A-	A-	B+	Accurate but slightly generic wording compared to the paragraph.
 Perplexity	B+	A-	B	Captured major points but less organized and a little repetitive.
 
-2.	Prompt Type: Few-Shot Prompt
-
+# 2.	Prompt Type: Few-Shot Prompt
 Question: The paragraph given for text summarization will be summarized as the example give below.
 Example:
 Summarize this paragraph:
@@ -44,10 +44,9 @@ Summary:
 🔹 Perplexity: 
 "Soft robotics is a mechanical engineering innovation using flexible materials to build adaptive, bioinspired robots. Developments like artificial muscles, self-healing designs, and soft grippers enable new applications in healthcare, wearables, and delicate manufacturing tasks."
 
-
 Analysis Notes (Few-shot):
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/58aa90b35e6ddfdacd74e05b0f27e16f4a8525fd/images/Screenshot%202025-05-25%20224856.png)
 
 AI Tools	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Comprehensive summary, includes the material, application, and technology well.
