@@ -22,14 +22,12 @@ Question: "Summarize the paragraph about soft robotics."
 
 # Analysis Notes (Zero-shot):
 
+![image alt](
+
 AI Tool	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Very concise, correctly picked innovations from the paragraph without confusion.
 Claude	A-	A-	B+	Accurate but slightly generic wording compared to the paragraph.
 Perplexity	B+	A-	B	Captured major points but less organized and a little repetitive.
-
-
-
-
 
 2.	Prompt Type: Few-Shot Prompt
 
@@ -49,20 +47,12 @@ Summary:
 
 Analysis Notes (Few-shot):
 
+![image alt](
+
 AI Tools	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Comprehensive summary, includes the material, application, and technology well.
 Claude	B+	A	B+	Correct examples but less detail in explaining the relationship between them.
 Perplexity	B	B+	B	Includes all elements but the connections feel slightly forced.
-
-
-
-
-
-
-
-
-
-
 
 3.	Prompt Type: Chain-of-Thought Prompt
 
@@ -87,19 +77,12 @@ Prompt:
 
 Analysis Notes (Chain-of-Thought):
 
+![image alt](
+
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Detailed, structured explanation that builds logically from one point to another.
 Claude	A-	A	B+	Good explanation, but slightly less clarity on how steps connect to real-world applications.
 Perplexity	B+	B+	B+	Explanation is clear but slightly less detailed in stepwise development.
-
-
-
-
-
-
-
-
-
 
 4.	Prompt Type: Role-based Prompt
 Question: Follow the below given instructions 
@@ -117,26 +100,12 @@ Prompt:
 
 Analysis Notes (Role-based):
 
+![image alt](
+
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Clear, authoritative explanation fitting the role of an expert in the field.
 Claude	A-	A-	B+	Good technical explanation, but lacks a bit of depth in terms of future impact.
 Perplexity	B+	B	B	A bit too generic and lacks the authoritative tone needed for an expert response.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 5.	Prompt Type: ReAct Prompting
@@ -162,6 +131,8 @@ Step 3: Notable innovations are soft grippers, artificial muscles, and untethere
 Final Summary: Soft robotics uses flexible materials to create machines mimicking biology, driving innovation in healthcare and manufacturing fields.
 
  Analysis Notes (ReAct):
+
+ ![image alt](
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Logical reasoning followed by a relevant real-world example (surgery).
@@ -197,15 +168,12 @@ Prompt:
 
 Analysis (Instruction-following):
 
+![image alt](
+
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Follows instructions well, concise and accurate list.
 Claude	A-	A-	A-	Good listing but a bit generic; could improve with more specific examples.
 Perplexity	B+	B	B+	List format is correct, but some points are not as detailed or relevant.
-
-
-
-
-
 
 
 7.Prompt Type: Context-enriched Prompt
@@ -224,6 +192,8 @@ Prompt:
 
 
 Analysis (Context-enriched):
+
+![image alt](
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Well-structured response with a detailed explanation linking flexibility and precision to recovery time.
@@ -246,10 +216,9 @@ o	Third Place: Perplexity often delivered adequate responses but showed inconsis
 o	Limitations: The responses from Perplexity lacked in-depth technical reasoning and often missed out on connecting key points that were necessary for a complete answer.
 
 
-
-
-
 Prompt Type Performance Comparison:
+
+![image alt](
 
 Prompt Type	ChatGPT	Claude	Perplexity
 Zero-shot	A	A-	B+
