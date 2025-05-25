@@ -99,7 +99,7 @@ Prompt:
 
 Analysis Notes (Role-based):
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/8d02971b10eb60eb169bb7b3d22f1a702b1cefa5/images/Screenshot%202025-05-25%20230205.png)
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Clear, authoritative explanation fitting the role of an expert in the field.
