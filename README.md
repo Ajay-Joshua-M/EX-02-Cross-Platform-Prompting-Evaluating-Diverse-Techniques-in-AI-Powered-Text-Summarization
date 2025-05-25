@@ -217,7 +217,7 @@ o	Limitations: The responses from Perplexity lacked in-depth technical reasoning
 
 Prompt Type Performance Comparison:
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/ed8ddcd88af99254f57977b84e38e21e1a052b3f/images/Screenshot%202025-05-25%20230946.png)
 
 Prompt Type	ChatGPT	Claude	Perplexity
 Zero-shot	A	A-	B+
