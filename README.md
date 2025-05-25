@@ -22,7 +22,7 @@ Question: "Summarize the paragraph about soft robotics."
 
 # Analysis Notes (Zero-shot):
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/6838159edd3de2ca9925dc17858d9286455a3d9d/images/Screenshot%202025-05-25%20224424.png)
 
 AI Tool	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Very concise, correctly picked innovations from the paragraph without confusion.
