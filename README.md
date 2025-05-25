@@ -131,7 +131,7 @@ Final Summary: Soft robotics uses flexible materials to create machines mimickin
 
  Analysis Notes (ReAct):
 
- ![image alt](
+ ![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/dbab1fed6c2e593a3ffd150b94f85c87dd040594/images/Screenshot%202025-05-25%20230505.png)
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Logical reasoning followed by a relevant real-world example (surgery).
