@@ -53,7 +53,7 @@ ChatGPT	A	A	A	Comprehensive summary, includes the material, application, and tec
 Claude	B+	A	B+	Correct examples but less detail in explaining the relationship between them.
 Perplexity	B	B+	B	Includes all elements but the connections feel slightly forced.
 
-3.	Prompt Type: Chain-of-Thought Prompt
+# 3.	Prompt Type: Chain-of-Thought Prompt
 
 Question: Follow the below given instructions 
 Prompt:
@@ -76,7 +76,7 @@ Prompt:
 
 Analysis Notes (Chain-of-Thought):
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/f743dec38ab2bedff079e7cf64473accd48be764/images/Screenshot%202025-05-25%20225206.png)
 
 Model	Performance	User Experience	Response Quality	Notes
 ChatGPT	A	A	A	Detailed, structured explanation that builds logically from one point to another.
